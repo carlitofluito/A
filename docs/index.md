@@ -1,10 +1,10 @@
 --- 
 title: "Letter to Alissija 2019-08"
 author: "Carlos Alcala a.k.a. Carlito Fluito"
-date: "2019-09-30"
+date: "2019-10-01"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib]
+bibliography: 
 biblio-style: apalike
 link-citations: yes
 github-repo: carlitofluito/Alissija
