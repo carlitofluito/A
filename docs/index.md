@@ -1,14 +1,14 @@
 --- 
-title: "Letter to Alissija 2019-08"
+title: "Letter to A. 2019-08"
 author: "Carlos Alcala a.k.a. Carlito Fluito"
-date: "2019-10-01"
+date: "2020-03-17"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: 
 biblio-style: apalike
 link-citations: yes
 github-repo: carlitofluito/Alissija
-description: "This is a the letter I wrote to Alissija after the ten days we spent together in August 2019"
+description: "This is a the letter I wrote to A. after the ten days we spent together in August 2019"
 ---
 
 # Preamble {-#preamble}
@@ -19,11 +19,11 @@ We said goodbye.
 
 I thank the universe for all that happened in between.
 
-## Hello Alissija
+## Hello A.
 
 2019-08-06 04.15
 
-Hello Alissija, 
+Hello A., 
 
 Don’t expect the best letter. It is 4 am. I went to sleep early, woke up a couple of hours ago and spend all this time ordering papers and stuff from the exchange. 
 
