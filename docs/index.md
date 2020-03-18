@@ -1,17 +1,17 @@
 --- 
 title: "Letter to A. 2019-08"
 author: "Carlos Alcala a.k.a. Carlito Fluito"
-date: "2020-03-17"
+date: "2020-03-18"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: 
 biblio-style: apalike
 link-citations: yes
-github-repo: carlitofluito/Alissija
+github-repo: carlitofluito/A
 description: "This is a the letter I wrote to A. after the ten days we spent together in August 2019"
 ---
 
-# Preamble {-#preamble}
+# Preamble
 
 We found each other. 
 

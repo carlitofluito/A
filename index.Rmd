@@ -7,11 +7,11 @@ documentclass: book
 bibliography: 
 biblio-style: apalike
 link-citations: yes
-github-repo: carlitofluito/Alissija
+github-repo: carlitofluito/A
 description: "This is a the letter I wrote to A. after the ten days we spent together in August 2019"
 ---
 
-# Preamble {-#preamble}
+# Preamble
 
 We found each other. 
 
