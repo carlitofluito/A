@@ -1,9 +1,6 @@
 # BOOK I - Syncronicity
 
-Letter to A. 
-2019-09
-
-This is a the letter I wrote to A. after the ten days we spent together in August 2019.
+This is the letter I wrote to A. after the ten days we spent together in August 2019.
 
 ## Preamble {-}
 
