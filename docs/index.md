@@ -10,9 +10,9 @@ link-citations: yes
 github-repo: carlitofluito/A
 description: "Divided into four books."
 ---
-# Prelude
+# Prelude {-}
 
-## Sunday, 27 of October of 2019
+## Sunday, 27 of October of 2019 {-}
 
 Fotografiska Restaurant, Telliskivi Loomelinnak, Tallinn, Estonia
 

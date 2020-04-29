@@ -5,7 +5,7 @@ Letter to A.
 
 This is a the letter I wrote to A. after the ten days we spent together in August 2019.
 
-## Preamble
+## Preamble {-}
 
 We found each other. 
 
@@ -13,7 +13,7 @@ We said goodbye.
 
 I thank the universe for all that happened in between.
 
-### Hello A.
+### Hello A. {-}
 
 2019-08-06 - 04.15
 
