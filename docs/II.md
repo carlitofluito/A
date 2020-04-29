@@ -17,8 +17,9 @@ A sheep in lion’s clothing venturing into the den of a lion in sheep’s cloth
 ### Back at home (2019-08-05)
 I was in Brussels. I wasn’t worrying much about you, since I knew you would get away of pretty much any situation, but I was curious about what had happened.
 
-<div style="text-align: right"> - How was the night? </div>
+<div style="text-align: right"> --- *How was the night?* </div>
 
--	The night was great. How was your travel?
+--- *The night was great. How was your travel?*
 
-<div style="text-align: right"> - Sleeping a lot, like what I am doing today. Planning to write something to you soon.  How the night developed?  Anecdote? </div>
+<div style="text-align: right"> --- *Sleeping a lot, like what I am doing today. Planning to write something to you soon.  How the night developed?  Anecdote?* </div>
+
