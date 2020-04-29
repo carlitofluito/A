@@ -4,7 +4,7 @@ This is the evolution of our relationship during our time apart. Here there are 
 
 I never send it to you. Until now.
 
-## Preamble {-]
+## Preamble {-}
 
 I was raising downwards. 
 
