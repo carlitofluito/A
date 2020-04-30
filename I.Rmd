@@ -424,15 +424,15 @@ I kissed you. You kissed me. We kissed each other. I loved you. You loved me. We
 
 I entered the bus, looked for a place to sleep. Found it, lie down thanking the size of my body, and collapse almost completely until arriving to Brussels. The trip was over. 
 
-## Day (DAY 11 – 2019-08-05)
+## Day... (DAY 11 – 2019-08-05)
 
 I spend the day doing the garden, sleeping and procrastinating my duties. I let my body recover from such a journey and evolution. 
 
-## after (DAY 12 – 2019-08-06O)
+## ...after... (DAY 12 – 2019-08-06)
 
 I postpone my life, my duties and start writing. 
 
-## day (DAY 13 – 2019-08-07)
+## ...day (DAY 13 – 2019-08-07)
 
 After two days of almost uninterrupted writing, I am here. I have some notes to add, but I think that for the moment, I will leave the text as it is. 40 pages of learning and lessons written in 2 days and experienced in 10.
 

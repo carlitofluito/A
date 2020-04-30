@@ -1,7 +1,7 @@
 --- 
-title: "Spiritual touch. A journey to the depths of being."
+title: "Spiritual touch. A transformative journey into the depths of being."
 author: "Carlos Alcala a.k.a. Carlito Fluito"
-date: "2020-04-29"
+date: "2020-04-30"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: 
