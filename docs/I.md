@@ -145,18 +145,19 @@ We went down the tram and it started raining. People protected themselves from t
 >
 >Sharing my holy water
 >
->Thanking non needed care
+>Thanking not needed care
 >
 >Admiring Milano's catwalks
 >
 >And smoking in the name of
 >
 >Bam Bam bole
+><br/><br/>
 >
 >A priceless lesson for me
 >
 >May become an expensive one for you
->
+><br/><br/>
 >
 >Forgive them father for they don't know what they do.
 >
@@ -274,9 +275,128 @@ I took another look at the envelope and thought that you had written the one wit
 
 My head was still a bit of a turmoil, and you seemed perfectly secure, perfectly fine, perfectly at peace. I was still digesting the lessons from the previous day. I asked you about how to control my attention, but you couldn’t answer. We separated and I end up in the church, where I had restrained my impulses of having sex with you in front of a cemetery. I told my group that I would focus on myself. I entered the church and practice anapana (attention on the breath) for 30 minutes, just listening and attending to my breath. I went out, we filmed the video, and then I started training. Visualizations arrived to me as the correct tool in the correct moment. I was able to land the cork after few attempts. It was incredible how powerful the mind is. All seemed a huge synchronicity. I was feeling strong and energetic again. I went to the hall, skip lunch and kept on training, kept on visualizing. It was wonderful how fast I could advance just by interiorizing the movement before attempting it. 
 
-After the lunch, I finished the text, I gave it to In. for correction and proofreading, and publish it on the website together with the slow-motion video she had recorded. A super-productive day. I was feeling thrilled again. I had learned my lesson, got detached from the exchange, do my own, learn and grow. Everything was in order again. 
+After the lunch, I finished the text, I gave it to In. for correction and proofreading, and [publish it on the website](https://www.carlitofluitoideas.com/attachment-spiritual-evolution/) together with the slow-motion video she had recorded. A super-productive day. I was feeling thrilled again. I had learned my lesson, got detached from the exchange, do my own, learn and grow. Everything was in order again. 
 
-My. tried to talk with me for a while. She asked me if I was okay, if everything was going well, and she showed interest on me when she tried to speak about my main occupation in Spain, *“I am living in Brussels”*. I understood better the importance of inner control vs. outer control, and how I should give to people once they asked for something, not before. I mastered silence, I mastered surrender. I worked hard on my compassion which since the meditation of the previous day, I was starting to feel more clearly on my body. 
+### Attachment and spiritual evolution (2019-08-01)
+
+**I**
+
+Recently, I was asked the following question:
+
+"*If I strip away my attachment to relationship and accomplishment who am I underneath?*"
+
+I cannot answer who you are underneath, because I don’t know you. But I can try to say what you will become.
+
+The shortest and most spontaneous answer that I could say is:
+
+*Free. When you strip away from your attachment, you will become free.*
+
+But security is needed.
+
+&nbsp;
+
+**II**
+
+For Buddha, attachment was the cause of suffering.
+
+For every human being, including Buddha, attachment is the first relationship we develop with another being.
+
+Attachment exists because we are born dependent. You may have heard that human beings, out of all the known life in this universe, are the animals who are most dependent at the time of birth. Most people nowadays are familiar with neuroplasticity, the fact that the brain keeps on leaning and changing all over our lives and development (<em>cite required</em>). However, more people may be unfamiliar with the fact that the skull, the container of the brain, is not completely closed when we are born (<em>cite required</em>). Apart from facilitating the already painful birth to the mother, the softness of the bones of the skull in newborns allows the brain to develop and expand the fastest during our first years.
+
+<strong>Focusing on learning requires a safe environment</strong>. When we are unable to live by ourselves independently, the safety of an environment is determined by the people inhabiting that space, that universe. The famous experiments supporting this idea were carried out by Bowlby (<em>cite required</em>). Some mothers and their kids were in a room full of toys. The kids were playing around while the mother was patiently seated. At some point, the mother left the room leaving the kid alone. Healthy kids stopped playing, stopped exploring, stopped learning. All kids cry. They suffered at their realization of their loneliness, of their dependency, of their vulnerability. They expressed their fear, pain, and suffering by crying. Crying for help, crying for support. Crying for love.
+
+<strong>Love is the most effective pacifier</strong>. Love is built on trust. After a couple of minutes, the mothers entered the room and tried to pacify the kids. The ones that were familiar with the love of their mothers calmed down really fast. Those that couldn’t quickly connect and understand that the mothers had come back and were giving them love, took longer to calm down and return to an explorative behavior.
+
+Bowlby divided the reaction of the kids in several categories:<strong> secure, anxious-ambivalent anxious-avoidant, and disorganized.</strong> All excepting the secure, are insecure. (You can read more on <a href="https://en.wikipedia.org/wiki/Attachment_theory"><em>Wikipedia</em></a> about this).
+
+Then, the psychological literature made us believe that we are conditioned for the rest of our lives according to <strong>the type of relationship we developed with our first caregiver, mostly our mothers.</strong>
+
+People with secure attachment are related to better outcomes in many aspects of life. Interpersonal relationships (romantic, familial, friendship), goal achievement, academic success and such a long list of things that I grow skeptic of it (You can read many of these in Wikipedia as well, in the section of <a href="https://en.wikipedia.org/wiki/Attachment_theory#Attachment_in_adults"><em>Attachment in adults</em></a>). It is for me difficult to believe that the first relationship that we had is determining the rest of our lives. I agree that it is probably the strongest one that we will ever develop. None of us can remember the first years of our lives. The time when our attachment reaction was being built. Thus, we may underestimate its impact. But I deeply believe in change. I believe that human beings can change. I believe we can learn. I believe we can grow.
+
+&nbsp;
+
+**III**
+
+I used to have a pretty insecure attachment (sometimes anxious, sometimes ambivalent), but nowadays, believe me on this, I am doing much better. (You can take a look to my <em><a href="https://carlitofluito.github.io/unfinished_loves/">Unfinished Loves</a></em> if it serves as inspiration).
+
+Personally, spirituality is, among other things, a deeper approach to human psychology, a more evolved one. Evolved and simplified.
+
+Buddha detected that attachment was the cause of suffering. Attachment was developed on us when we were extremely dependent on other human beings. We were completely vulnerable, and if it weren’t for our first caregiver, we wouldn't be alive today. It's that simple.
+
+Thus, it is simple to understand that this relationship keeps on affecting most of us after many years and in many aspects of our life.
+
+However, I think that we can grow. <strong>I don’t like the idea that we cannot control the outcome of our life, that who we are going to become depends on the type of one specific relationship we had.</strong>
+
+I believe in realizations. Realization is a pretty spiritual word. Learning is progressively discovering bits of reality. <strong>Realizations are fundamental alterations to the essence of our existence. </strong>
+
+<strong><span style="font-size: 14pt;">Realizations are changes in our soul.</span></strong>
+
+Secure attachment means that we can explore the world feeling safe. Unsecure attachment means that we keep on feeling unsafe and that limits the realm of things that we can experience in this life.
+
+We all should forgive our mothers. At some point somewhere on our development, we needed our caregivers and they weren’t there. We suffer. We learned. We became insecure. The lesson: when we needed caregivers, they may not be there. We cannot trust people. Love is a limited and conditioned resource.
+
+&nbsp;
+
+**IV**
+
+Spiritually speaking, we can arrive at a different realization. The realization that <strong>love is within us</strong> and that depends on us to feel loved and secure. Thus, we will become free.
+
+Maybe this thought sparks fear on you. It sometimes does on me.
+
+This fear is another form of attachment. Attachment to our human nature. It is undeniable that attachment is human. However, I disagree with believing that is the most evolved form of love. Religion focuses on divinity, spirituality on humans. I like to define myself as a spiritual polyreligious person.
+
+Certain religions make us believe that the highest form of love is god. As a spiritual person, I am still attached to the idea that the highest form of love is manifested and enacted by human beings. God is just an easy metaphor.
+
+Letting go of our attachments will make us less human, more divine. The perils are that one of the most successful religions of our time is founded on the idea that a very spiritual person that named himself “the son of God” was eventually crucified. Christianity invites us to believe that proclaiming yourself divine will bring you suffering and persecution from society. Buddhism, on the other hand, was founded by a person that after years of conscientious and continuous introspective exploration realized the truth that attachment is the cause of suffering. Then, he developed a methodology to get rid of suffering and <strong>spend the rest of his life spreading it.</strong>
+
+&nbsp;
+
+**V**
+
+The person writing this is Carlito Fluito. I like to acknowledge my human reality while developing my divine potentiality. I am European, and Aristotle’s thought about where the virtue lies have affected me. <strong>We have to progress and collaborate as a species if we want to reach divine levels.</strong>
+
+We can change the weather at will, an outcome that was asked by Native American people by dancing around a fire. We are already creating life, <strong>modifying it</strong>, a skill that is given to any creator god in every mythology. We have huge abilities of destruction and punishment, a power that is given to warrior gods in many mythologies. We are thinking about conquering this universe. We are envisioning ways of creating new ones. If we are not god yet, we are becoming really closer.
+
+And still. We remain so, so, so, so, so, so, so, so, so, so, so, so, so, so, so, so, so, so, so, so human. We still remain so humans that while I am writing these words tears appear on my eyes. We remain fearing each other. We remain hiding our souls. We remain attacking each other. We remain feeling unsafe and insecure in this planet. We remain afraid of death. We remain attached to life.
+
+But humanity is not only negative things. The lesson that we have to learn from attachment is the potentiality of feeling love, of feeling loved. <strong>Spirituality is a coping mechanism</strong>. Spirituality brings new tools of control to situations that seem infinitely uncontrollable. <strong>Detecting love as a tool</strong>, and leaving away attachment is, from my point of view, the spiritual solution that human beings need as a species at this historical moment.
+
+So, what will we become once we strip away our attachment? Free. We will become free.
+
+In monotheism, God created the world, the universe, but he was so attached to it, that he kept on intervening. He intervened so much that send prophets, messiahs, martyrs, saints… to keep on correcting and modifying his original creation. <strong>Most religious believers praise a God that is still behaving, feeling, and thinking like a human</strong> (<em>cite required</em>). I choose not to praise Gods that are like humans when I can directly venerate humans. Spirituality is a simplification, an evolved simplification. Why should I praise God, when I can praise human beings?
+
+If we get rid of our attachment, we will become a more evolved form of spiritual beings. We may stop feeling human, and we may even fear that we will lose our capacity of love and be loved. But I don’t like to believe that. I prefer to think that leaving our attachments behind will transform us into a more evolved form of human beings. Humans that feel free, secure have the ability to love and be loved at will, independently of the behavior of another person, or the outcomes of a situation. Spirituality is the next step in our evolution as species. Detachment is a key step to take.
+
+&nbsp;
+
+I don’t know who you are underneath since I can only speak from my experience, from who I am, and from what I have discovered on my path. The question about who you are can only be answered by you. With this text, I just tried to mention some of the things you are likely to become when you do if you are willing to try it.
+
+I love to hear your questions and comments.
+
+Danyabad for reading.
+
+For you that read this far:
+
+This is how I feel when I am free of attachment.^[Click on the image to see the video.]
+
+
+[
+<img src="http://img.youtube.com/vi/fb-AziXby-g/0.jpg" width="75%" style="display: block; margin: auto;" />
+](http://www.youtube.com/watch?v=fb-AziXby-g) 
+
+----------
+
+My. tried to talk with me for a while. She asked me if I was okay, if everything was going well, and she showed interest on me when she tried to speak about my main occupation in Spain, *“I am living in Brussels”*. She was surprised, and then she asked me what I was doing. I answered in my funny way of "1 to 5" in level of complexity of the answer. But for her, I told her to choose "1 to 5" among my occupations there. One to four where “Ph.D. student”, “Dancer and performer”, “Yoga teacher”, and  “Youtuber”. Luckily and funnily, she chose five:
+
+&#8212; *I am taking care of a dog. His name is Mortimer.*
+
+She was obviously, pretty puzzled. 
+
+&#8212; *But, that is what you do in Brussels, for living?*
+
+&#8212; *Well, it is one of the things I do, yes.*
+
+Indeed, I had been living in Brussels for already a year and a half as dog sitter. So, all was good. She tried to continue the conversation, asking me what were the other occupations, but I told her that it was better not to know everything at once. That she could come back later and talk more if she wanted. She was sort of annoyed by my behavior, but I was just being clear and straightforward. She could have come before to asked me who I was. I understood better the importance of inner control vs. outer control, and how I should give to people once they asked for something, not before. I mastered silence, I mastered surrender. I worked hard on my compassion which since the meditation of the previous day, I was starting to feel more clearly on my body.
 
 You did the energizer of killing hearts with the fingers. It was my small revenge to show you that I was back on the game, full mode and ready to play. It kept on confirming my expectations the fact that even Igor, physically fit and older than me, couldn’t touch me even once. I was feeling unbeatable. 
 
@@ -335,7 +455,10 @@ I changed myself on the room and went into the kitchen to get an apple. M. T.  f
 
 I did the energizer of cooperating and trusting, of standing into each other on groups. People laugh, I enjoyed watching. I realized that I can enjoyed my experience there by being detached, by being a spectator of the show that life was offering me. For the activity of the videos, people made groups and I choose mine when I wanted, based on the people, the venue, and the location where I could place myself to work on my laptop. Eventually, I worked with An. in a text that I tried not to over-direct and control. However, I wanted things done, so I rushed a bit. An. had been lovely the previous day, while we were saying goodbye and she was high. We had hugged and smiled to each other so much that was difficult to express another thing than love to her. 
 
-We did the text, and I prioritized my needs. I went around the rooms, talking and enjoying myself with people. I was thinking about taking a nap, but it was almost lunch time. I talked with Lu., Li., and La.. I got to know them a bit better. I told them that I had found my role and place in the project, that I was enjoying watching the performance, that I had become a spectator, free of outcome, and fully detached of the result. I was free. I was myself again, training my body skills, doing climbing exercises, balance, strength and stretch development. Everything was getting into its place again. 
+We did the text, and I prioritized my needs. I went around the rooms, talking and enjoying myself with people. I was thinking about taking a nap, but it was almost lunch time. I talked with Lu., Li., and La.. I got to know them a bit better. I told them that I had found my role and place in the project, that I was enjoying watching the performance, that I had become a spectator, free of outcome, and fully detached of the result. I was free. I was myself again, training my body skills, doing climbing exercises, balance, strength and stretch development. 
+
+Everything was getting into its place again. 
+
 At lunch, we ate together. You fed me from your food, directly with your hands. I knew we both were dirty animals; we were just there enacting it for everyone. We bit and scratch each other for a while, talk about our lives and our relationship, show affection from time to time. I felt secure and at peace, I was enjoying myself and the moment a lot. After a while, I went inside and kept on observing and admiring. I found O. talking with Ab. in Arabic and I asked them to continue for me while I finished all the vegetables that were left. I even drunk beer when you appeared, and played a bit to social games with you, O. and Irene. I was there for myself. 
 
 After the session started, I decided to keep on focusing on me. I went to sleep and took a siesta. A siesta that felt amazingly good.
